@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ivan\source\repos\WebServer\WebServer\Source.cpp(9,1): warning C4005: _WIN32_WINNT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : см. предыдущее определение "_WIN32_WINNT"
+  WebServer.vcxproj -> C:\Users\Ivan\source\repos\WebServer\Debug\WebServer.exe
